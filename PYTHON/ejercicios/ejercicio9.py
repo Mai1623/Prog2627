@@ -21,6 +21,8 @@ nacimiento = int (nacimiento)
 altura = float (altura)
 
 edad = 2026 - nacimiento #Año actual - año nacimiento
+
+print ("- - - FICHA REGISTRADA - - -")
 print ("Nombre: ", nombre, "(Tipo:", type(nombre), ")")
-print ("Edad: ", nacimiento,"(Tipo:",  type(edad), ")")
+print ("Edad: ", edad,"(Tipo:",  type(edad), ")")
 print ("Altura: ", altura,"(Tipo:",   type(altura), ")")
