@@ -11,7 +11,7 @@
    # • imprimir en pantalla los tipos de datos de cada variable convertida usando la función type().
     #• Mostrar un mensaje final con toda la información integrada
 
-
+# Introducir datos
 nombre = input ("Cual es tu nombre: ")
 nacimiento = input ("En que año naciste: ")
 altura = input ("Cual es tu altura: ")
@@ -20,8 +20,10 @@ nombre = str (nombre)
 nacimiento = int (nacimiento)
 altura = float (altura)
 
+#Calcular edad
 edad = 2026 - nacimiento #Año actual - año nacimiento
 
+#imprimir por pantalla
 print ("- - - FICHA REGISTRADA - - -")
 print ("Nombre: ", nombre, "(Tipo:", type(nombre), ")")
 print ("Edad: ", edad,"(Tipo:",  type(edad), ")")
