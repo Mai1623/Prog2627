@@ -1,4 +1,4 @@
-//NIVEL 2 (SimuladorCrono.java) dado un total de segundos (ej. 3725), utilizar
+//NIVEL 2 (SimuladorCrono.java) dado un total de segundos (ej. 6427), utilizar
     //    operadores aritmeticos y de momdulo (/ y %) para descomponerlo y mostrar en
 //pantalla cuantas horas, minutos y segundos exactos representa.
 import java.util.Scanner;
