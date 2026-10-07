@@ -22,6 +22,7 @@ alumnos = int (alumnos)
 dividir = (caramelos // alumnos)
 
 #Sacar el resto
+#tambien se puede poner resto = (caramelos % alumnos )
 resto = (caramelos - (alumnos * dividir))
 
 #imprimir
