@@ -6,7 +6,7 @@ import java.util.Scanner;
 
         public static void main(String[] args) {
                // numero entero
-            int totalSegundos = 3725;
+            int totalSegundos = 6427;
                 
             // calcular las horas porque una hora tiene 3600 segundos
             int horas = totalSegundos / 3600;

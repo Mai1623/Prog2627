@@ -20,6 +20,7 @@ public class ejercicio20 {
         
         // calcula nota media
         double media = (nota1 + nota2) / 2.0;
+        //double media = (int) (nota1 + nota 2) / 0.2
         
         // imprime nota media haciendo calculo
         System.out.println("La media es: " + media);
