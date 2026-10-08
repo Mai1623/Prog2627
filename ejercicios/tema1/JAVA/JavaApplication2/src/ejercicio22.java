@@ -8,7 +8,7 @@ public class ejercicio22 {
         Scanner teclado = new Scanner(System.in);
 
         //Imprimir el mensaje
-        System.out.print("Introduce tu edad: ");
+        System.out.println("Introduce tu edad: ");
         int edad = teclado.nextInt();
 
         //Comprobacion si es mayor de edad según el dato metido
